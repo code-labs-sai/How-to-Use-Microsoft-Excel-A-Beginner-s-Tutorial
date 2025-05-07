@@ -1,0 +1,28 @@
+body{
+    font-family: Lucida Bright,Georgia,serif; 
+    padding: 0px;
+}
+header{
+    margin-left : 20%;
+    margin-right: 20%;
+}
+
+.container img{
+    width: 22rem;
+    height: 9rem;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.content img{
+    width: 100%;
+
+}
+header h1{
+    font-size: 3.5rem;
+}
+
+header p{
+    font-size: 1.15rem;
+}
